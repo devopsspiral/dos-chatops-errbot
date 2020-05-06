@@ -1,0 +1,10 @@
+[Core]
+name = dos
+module = dos
+
+[Documentation]
+description = dos
+
+[Python]
+version = 3
+
